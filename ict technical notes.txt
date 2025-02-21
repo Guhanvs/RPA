@@ -25,3 +25,9 @@ Variable type
 5.Date and Time
 6.Boolean
 7.Queue item
+
+Arguments:
+
+1.In (in_name)
+2.Out(out_name)
+3.In/Out(io_name)
