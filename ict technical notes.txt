@@ -1,0 +1,27 @@
+UiPath
+ .attended ->human intervention
+ .unattended -> Fully automated
+----------
+day 1 topics:
+message box
+log message
+sequence
+input dialogue box
+scope
+read range
+write range
+assign
+write line
+if
+
+Day 2:
+
+Variable type
+
+1.String 
+2.Data table
+3.Array
+4.number
+5.Date and Time
+6.Boolean
+7.Queue item
